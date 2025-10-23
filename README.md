@@ -30,8 +30,6 @@ I'm a passionate software developer with experience in building scalable applica
 - [LinkedIn](https://linkedin.com/in/liltechnologies)
 - Email: fabrice5512@gmail.com
 
-<h3 align="center">Feel free to share any suggestions or ideas that could help me grow in my learning journey!😊</h3>
-
 ---
 
 *Thanks for visiting my profile!*

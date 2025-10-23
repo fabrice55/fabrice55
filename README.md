@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋, I'm Fabrice!
 
-<!--
-**fabrice55/fabrice55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm a passionate software developer with experience in building scalable applications, contributing to open-source, and collaborating in diverse teams.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 Always learning new technologies and frameworks
+- 🛠️ Experienced in backend, frontend, and DevOps
+- 🤝 Open to collaborating on exciting projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Skills
+- Languages: Python, JavaScript (Node.js, React), TypeScript, Java
+- Cloud: AWS, Azure, GCP
+- DevOps: Docker, Kubernetes, CI/CD (GitHub Actions)
+- Tools: Git, VS Code, Linux
+
+## 📦 Featured Projects
+- [Project One](https://github.com/fabrice55/project-one): Brief description of your project.
+- [Project Two](https://github.com/fabrice55/project-two): Brief description of your project.
+
+## 📊 GitHub Stats
+![Fabrice's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabrice55&show_icons=true&hide_border=true&count_private=true)
+
+## 📫 Let's Connect
+- [LinkedIn](https://linkedin.com/in/liltechnologies)
+- Email: fabrice55@gmail.com
+
+---
+
+*Thanks for visiting my profile!*

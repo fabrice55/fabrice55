@@ -13,8 +13,9 @@ I'm a passionate software developer with experience in building scalable applica
 <hr/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=aws,javascript,express,mongodb,git,githubactions,nodejs,graphql,redis" /><br/>
-    <img src="https://skillicons.dev/icons?i=docker,postgresql,typescript,kubernetes,nestjs,mysql,postman,python" />
+    <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,typescript,mongodb,postgresql,sequelize,prisma,redis,jest" /><br/>
+     <img src="https://skillicons.dev/icons?i=git,githubactions,docker,linux,vim,vscode,figma,xd,ai"/><br/>
+    <img src="https://skillicons.dev/icons?i=vite,react,tailwind,nestjs,mysql,postman,python,gmail" />
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
